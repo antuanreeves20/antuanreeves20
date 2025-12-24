@@ -1,4 +1,4 @@
-<h1>Hey, I'm Tuan! <br/><a href="https://www.linkedin.com/in/antuan-reeves-30014939b/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hey, I'm Antuan! <br/><a href="https://www.linkedin.com/in/antuan-reeves-30014939b/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cyber Projects:</h2>
 
