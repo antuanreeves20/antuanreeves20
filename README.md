@@ -1,17 +1,15 @@
-<h1>Hey, I'm Antuan! <br/><a href="https://www.linkedin.com/in/antuan-reeves-30014939b/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-
+<h1>Hey, I'm Antuan! <br/><a href="https://www.linkedin.com/in/antuan-reeves-30014939b/">Cybersecurity Professional</a>
+  
 <h2>👨‍💻 Cyber Projects:</h2>
 
 - <b>Active Directory Home Lab (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Practical CourseWork</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Incident Analysis & Report Using tcpdump log](https://drive.google.com/file/d/14l7Q6msseyUfvcAIYXXWjz_TG-wmY2xV/view?usp=sharing)
+- [Incident Analysis & Report Using Wireshark Log](https://drive.google.com/file/d/1BOmaWDuaNcdrP4uK28hY0A8rNS1W3nUU/view?usp=sharing)
+- [Incident Response Using NIST CSF](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 <h2> 🤳 Connect with me:</h2>
 
