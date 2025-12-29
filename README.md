@@ -3,9 +3,12 @@
 <h2>👨‍💻 Cyber Projects:</h2>
 
 - <b>Active Directory Home Lab (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [AD Creation Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+- <b>SIEM Tool Creation Home Lab (AlgoExpert)</b>
+  - [Create a SIEM using Azure]
 
-<h2>Practical CourseWork</h2>
+<h2>Practical Coursework:</h2>
 
 - [Incident Analysis & Report Using tcpdump log](https://drive.google.com/file/d/14l7Q6msseyUfvcAIYXXWjz_TG-wmY2xV/view?usp=sharing)
 - [Incident Analysis & Report Using Wireshark Log](https://drive.google.com/file/d/1BOmaWDuaNcdrP4uK28hY0A8rNS1W3nUU/view?usp=sharing)
