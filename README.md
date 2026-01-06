@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 Cyber Projects:</h2>
 
-- <b>Virtual Machine Creation/b>
+- <b>Windows Virtual Machine Creation on MacOS</b>
   - [VM Creation with Microsoft Azure](https://docs.google.com/presentation/d/1EcmBdVgDSdxHIHW3wvtNvIhk32pDcUo0Du0J0aW_Y_U/edit?usp=sharing)
  
 - <b>SIEM Tool Creation Home Lab</b>
