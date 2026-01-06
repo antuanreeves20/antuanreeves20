@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Projects:</h2>
 
 - <b>Virtual Machine Creation/b>
-  - [VM Creation with Microsoft Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [VM Creation with Microsoft Azure](https://docs.google.com/presentation/d/1EcmBdVgDSdxHIHW3wvtNvIhk32pDcUo0Du0J0aW_Y_U/edit?usp=sharing)
  
 - <b>SIEM Tool Creation Home Lab</b>
   - [Create a SIEM using Azure]
