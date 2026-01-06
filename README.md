@@ -1,4 +1,4 @@
-<h1>Hey, I'm Antuan! <br/><a href="https://www.linkedin.com/in/antuan-reeves-30014939b/">Cybersecurity Professional</a>
+<h1>Hey, I'm Antuan! <br/><a href="https://www.linkedin.com/in/antuan-reeves-30014939b/">Cybersecurity Analyst</a>
   
 <h2>👨‍💻 Cyber Projects:</h2>
 
