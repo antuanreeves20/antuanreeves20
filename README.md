@@ -2,8 +2,8 @@
   
 <h2>👨‍💻 Cyber Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [AD Creation Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Virtual Machine Creation/b>
+  - [VM Creation with Microsoft Azure](https://github.com/joshmadakor1/Algorithms-Practice)
  
 - <b>SIEM Tool Creation Home Lab</b>
   - [Create a SIEM using Azure]
