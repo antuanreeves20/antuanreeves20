@@ -5,8 +5,8 @@
 - <b>Windows Virtual Machine Creation on MacOS</b>
   - [VM Creation with Microsoft Azure](https://docs.google.com/presentation/d/1EcmBdVgDSdxHIHW3wvtNvIhk32pDcUo0Du0J0aW_Y_U/edit?usp=sharing)
  
-- <b>SIEM Tool Creation Home Lab</b>
-  - [Create a SIEM using Azure]
+- <b>Attack Map Home Lab</b>
+  - [Create an attack map using Microsoft Sentinel](https://youtu.be/njo-m_Jk1AY)
 
 <h2>Practical Experience:</h2>
 
