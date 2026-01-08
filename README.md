@@ -6,7 +6,7 @@
   - [VM Creation with Microsoft Azure](https://docs.google.com/presentation/d/1EcmBdVgDSdxHIHW3wvtNvIhk32pDcUo0Du0J0aW_Y_U/edit?usp=sharing)
  
 - <b>Attack Map Home Lab</b>
-  - [Create an attack map using Microsoft Sentinel](https://youtu.be/njo-m_Jk1AY)
+  - [Create an attack map using Microsoft Sentinel](https://docs.google.com/presentation/d/1U2yILLn5NbbQfSzWsOnW5K52S_kU4O9znbm1jwgbBvQ/edit?usp=sharing)
 
 <h2>Practical Studies:</h2>
 
